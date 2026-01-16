@@ -1,0 +1,7 @@
+{
+  "description": "An AI-powered job search platform with grounded search results, match analysis, cover letter generation, and interview preparation tools.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "name": "App"
+}
